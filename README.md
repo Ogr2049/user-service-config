@@ -6,9 +6,10 @@ User Service Config
 
 Основной проект: https://github.com/Ogr2049/TaskRom_7
 
-Структура:
-1)config/user-service-module.yml - настройки основного сервиса;
 
-2)config/api-gateway.yml - настройки API Gateway;
+Структура:
+1)config/user-service-module.yml - настройки основного сервиса.
+
+2)config/api-gateway.yml - настройки API Gateway.
 
 3)config/discovery-server.yml - настройки Eureka Server.
